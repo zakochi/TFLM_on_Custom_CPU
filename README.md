@@ -86,7 +86,6 @@ This project is open-source and available under the Apache License 2.0.
 Credits
 
 TensorFlow Lite for Microcontrollers (TFLM):
-
 Copyright © The TensorFlow Authors.
 Licensed under Apache 2.0.
 Official Repository
@@ -101,4 +100,6 @@ RISC-V Toolchain:
 
 Provided by SiFive (Freedom Tools).
 
-Disclaimer: This project is for educational and research purposes. It is not an official Google product.
+Disclaimer:
+
+This project is for educational and research purposes. It is not an official Google product.
