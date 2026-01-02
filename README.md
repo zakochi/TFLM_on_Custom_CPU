@@ -56,7 +56,7 @@ Run the following commands in your proj/ directory to fetch the correct version:
 cd {your_Project_Root}/proj/
 
 # Clone CFU-Playground to get the compatible TFLM version
-git clone [https://github.com/google/CFU-Playground.git](https://github.com/google/CFU-Playground.git)
+git clone https://github.com/google/CFU-Playground.git
 
 # Copy the TFLM directory to your project workspace
 cp -r CFU-Playground/third_party/tflite-micro .
