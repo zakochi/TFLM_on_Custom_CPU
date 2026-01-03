@@ -70,7 +70,7 @@ Navigate to your proj directory and clone this repository:
 
 ```
 cd {your_Project_Root}/proj/
-git clone [https://github.com/zakochi/TFLM_on_Custom_CPU.git](https://github.com/zakochi/TFLM_on_Custom_CPU.git)
+git clone https://github.com/zakochi/TFLM_on_Custom_CPU.git
 ```
 ### Step 3: Run the Demo
 Enter the repository directory and execute the automation script. This script will compile the software, synthesize the hardware (if needed), program the FPGA, and start the UART monitor.
