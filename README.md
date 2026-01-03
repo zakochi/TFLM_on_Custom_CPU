@@ -42,6 +42,10 @@ Project_Root/
         │   ├── tcl/         <-- Automation Scripts
         │   └── soc/         <-- Vivado Project Output (Auto-generated)
         ├── sw/              <-- Software Source (App & Makefile)
+        │   ├── app/         <-- main.cc, tflite model
+        │   ├── platform/    <-- Setup File
+        │   ├── Makefile/         <-- To build instruction and data
+        │   └── model_config.mk/  <-- To decide run model
         └── run.sh           <-- Automation Script
 ```
 ## How to Use
