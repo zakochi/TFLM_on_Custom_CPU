@@ -1,0 +1,31 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Fri Jan  2 20:57:37 2026
+# Process ID: 926
+# Current directory: /home/yc/proj/2_TFLM
+# Command line: vivado
+# Log file: /home/yc/proj/2_TFLM/vivado.log
+# Journal file: /home/yc/proj/2_TFLM/vivado.jou
+# Running On        :LAPTOP-AHEFCFON
+# Platform          :Ubuntu
+# Operating System  :Ubuntu 22.04.5 LTS
+# Processor Detail  :11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz
+# CPU Frequency     :2688.011 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :8331 MB
+# Swap memory       :34359 MB
+# Total Virtual     :42690 MB
+# Available Virtual :42014 MB
+#-----------------------------------------------------------
+start_gui
+open_project /home/yc/proj/2_TFLM/hw/soc/soc.xpr
+update_compile_order -fileset sources_1
+file mkdir /home/yc/proj/2_TFLM/hw/soc/soc.srcs/sources_1/new
+close [ open /home/yc/proj/2_TFLM/hw/soc/soc.srcs/sources_1/new/timer64.v w ]
+add_files /home/yc/proj/2_TFLM/hw/soc/soc.srcs/sources_1/new/timer64.v
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
