@@ -46,7 +46,9 @@ Project_Root/
         │   ├── platform/    <-- Setup File
         │   ├── Makefile/         <-- To build instruction and data
         │   └── model_config.mk/  <-- To decide run model
-        └── run.sh           <-- Automation Script
+        └── run.sh           <-- Automation Script│
+        └── gen_vww_input_cc.py
+        └── graph/  
 ```
 ## How to Use
 ### Step 1: Prepare Environment
