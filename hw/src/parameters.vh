@@ -1,7 +1,0 @@
-`define CPU_CLK 20_000_000 //20MHz
-`define UART_BAUD_RATE 115200
-//`define SIMULATION
-`define I_ADDR_MIN 0
-`define I_ADDR_MAX 0x00003FFF
-`define UART_MIN 0x20000000
-
