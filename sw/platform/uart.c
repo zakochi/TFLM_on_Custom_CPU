@@ -1,5 +1,5 @@
 #include "uart.h"
-#include <stdint.h> // 使用標準型別比較好
+#include <stdint.h> 
 
 /* ==============================================
    BA: 0x20000000
